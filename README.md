@@ -1,1 +1,1 @@
-[![Mastodon](https://shields.io)](https://mastodon.social)
+[![![Mastodon](https://shields.io)](https://mastodon.social)
